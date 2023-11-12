@@ -22,7 +22,7 @@
             , <&pro_micro 18(GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
             , <&pro_micro 12 (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
             , <&pro_micro 4 (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
-            ; <&pro_micro 9 (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
+            , <&pro_micro 9 (GPIO_PULL_DOWN | GPIO_ACTIVE_HIGH)>
 	    ;	
 
         col-gpios
