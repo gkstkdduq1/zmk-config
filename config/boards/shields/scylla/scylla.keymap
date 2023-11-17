@@ -40,7 +40,7 @@
    &trans   &trans  &trans &trans     &trans    &trans        &trans   &trans  &trans &trans     &trans    &trans
    &trans   &trans  &trans &trans     &trans    &trans              &trans   &trans  &trans &trans     &trans    &trans
    &kp LSHFT   &trans       &trans       &trans         &trans       &trans              &trans   &trans  &trans &trans     &trans    &trans
-                         &mo 1 &kp SPACE &kp LSHIFT     &kp RSHIFT   &kp RET   &mo 2  
+                         &trans &kp SPACE &kp LSHIFT     &kp RSHIFT   &kp RET   &trans  
                                &kp HOME &kp LANG1       &kp LALT    &kp END
                         >;
                 };
